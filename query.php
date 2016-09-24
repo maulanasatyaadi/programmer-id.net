@@ -1,4 +1,13 @@
 <?php
+/*
+   @author Maulana Satya Adi
+   @website programmer-id.net
+   
+   This class containing a method that can simplify method
+   to connect with your mysql database, get data, insert data,
+   update data, and delete data on your mysql server using php.
+*/
+
 class query
 {
 	var $connection;
