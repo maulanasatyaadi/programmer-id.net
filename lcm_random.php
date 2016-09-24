@@ -1,4 +1,14 @@
 <?php
+/*
+   @author Maulana Satya Adi
+   @website programmer-id.net
+   
+   This function do randomize an array with linear conruent method
+   you can import your array at first statement and import your
+   z0 data on second statement. This function turn an array that has
+   randomize with linear conruent method.
+*/
+
 function lcm_random($array_str = array(), $z0 = 0)
 {
 	$id = 0;
